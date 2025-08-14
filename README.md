@@ -3,6 +3,7 @@
 Данный репозиторий содержит в себе шаблон для создания VR игры в стиле в стиле OnlyUp.
 
 Видеоинструкция - https://youtu.be/AMeYF6eaSrc
+
 Альтернативная ссылка - https://plvideo.ru/watch?v=wbMr38hfYJ-J&list=SLkNsZNYIsbo&index=2
 
 # Инструкция по проведению мастеркласса
